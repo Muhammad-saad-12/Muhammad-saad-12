@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad-saad
 - 👀 I’m interested in learning and doing coding and problem sloving
-- 👀 I have basic knowlwdge of c++ language  and HTML.
-- 🌱 I’m currently Front-end web development
+- 👀 I have basic knowlwdge of c++ language  and HTML and Css.
+- 🌱 I’m currently Learning Front-end web development (Html/css/javascript/frameworks).
 - 💞️ I’m looking to collaborate on ...
 - 📫  reach me on linked in here is my id link [linkedin.com/in/muhammad-saad-483736228...]
 <!---
