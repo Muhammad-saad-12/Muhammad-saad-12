@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Muhammad-saad
-- 👀 I’m interested in learning and doing coding and problem sloving
-- 👀 I have basic knowlwdge of c++ language  and HTML and Css.
-- 🌱 I’m currently Learning Front-end web development (Html/css/javascript/frameworks).
-- 💞️ I’m looking to collaborate on ...
-- 📫  reach me on linked in here is my id link [linkedin.com/in/muhammad-saad-483736228...]
+- 🌱 I’m currently Learning full-stack web development).
 <!---
 Muhammad-saad-12/Muhammad-saad-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
