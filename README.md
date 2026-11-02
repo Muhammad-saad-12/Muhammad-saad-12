@@ -26,7 +26,7 @@ I'm a Software Engineering graduate from the University of Gujrat, Pakistan, int
 
 - **DineFlow** — Restaurant management application with ordering workflows, role-based access, and an AI-powered chatbot.
 - **Flight Booking & Ticket Management System** — Laravel application for ticket availability and booking-record management.
-- **AI Resume Analyzer & Job Matching System** — Project focused on resume analysis, skill extraction, and job matching.
+
 
 ### 🎯 Career Goal
 
