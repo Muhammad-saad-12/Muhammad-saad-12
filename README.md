@@ -73,4 +73,4 @@ I'm always open to interesting projects, new opportunities, and collaborations w
 
 ---
 
-⭐ *Always learning, building, and improving — one project at a time.*
+⭐ *Always learning, building, and improving. *
