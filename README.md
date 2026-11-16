@@ -1,40 +1,34 @@
-# Hi, I'm Muhammad Saad 👋
+👋 Hi, I'm a Full-Stack Developer!
 
-### Software Engineering Graduate | Full-Stack Developer
+I'm focused on building modern, scalable, and user-centric web applications. I enjoy transforming ideas into practical software solutions by combining clean frontend experiences with robust backend architecture.
 
-I'm a Software Engineering graduate from the University of Gujrat, Pakistan, interested in building practical web applications, backend systems, and AI-powered solutions.
+💻 Technical Skills & Technologies
 
-- 🔭 **Currently working with:** Full-stack web development
-- 🌱 **Technologies:** JavaScript, React.js, Node.js, PHP, Laravel
-- 🗄️ **Databases:** MySQL, MongoDB
-- 🔌 **Backend:** RESTful APIs, authentication, and database-driven applications
-- 🤖 **Interests:** AI-powered applications and AI-assisted development
-- 📫 **Email:** saad.work006@gmail.com
-- 💼 **LinkedIn:** [Muhammad Saad](https://www.linkedin.com/in/muhammad-saad-360b3a354)
+🎨 Frontend: React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, Redux Toolkit.
+⚙️ Backend: Node.js, Express.js, PHP, Laravel, Livewire.
+🗄️ Databases: MongoDB, MySQL, PostgreSQL, Prisma ORM, Mongoose.
+🔗 Other Technologies: RESTful APIs, JWT Authentication, Socket.IO, Google Gemini API, Git, and GitHub.
 
-### 🛠️ Tech Stack
+🚀 Projects & Development Experience
 
-**Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS
+I've worked on diverse full-stack projects, including:
 
-**Backend:** Node.js, Express.js, PHP, Laravel
+✈️ Flight Booking & Ticket Management System
+🍔 Restaurant Management & Food Delivery Platform
+📊 B2B Expense Tracker & Invoice Dashboard
+📋 Project Management Platform
+🤖 AI-Powered Study & Learning Applications
 
-**Databases:** MySQL, MongoDB
+My development approach focuses on writing maintainable code, designing efficient database structures, building secure APIs, implementing authentication and role-based access, and delivering responsive user experiences.
 
-**Tools:** Git, GitHub, Postman
+🤖 AI-Assisted Development
 
-### 🚀 Featured Projects
+I'm passionate about AI-assisted software development and leverage tools like ChatGPT, Cursor, GitHub Copilot, and Gemini to improve development workflows, solve problems, and explore new possibilities.
 
-- **DineFlow** — Restaurant management application with ordering workflows, role-based access, and an AI-powered chatbot.
-- **Flight Booking & Ticket Management System** — Laravel application for ticket availability and booking-record management.
+🌟 I'm always interested in challenging projects, innovative ideas, and opportunities to collaborate with talented people in the software development industry.
 
+📬 Let's Connect:
 
-### 🎯 Career Goal
-
-Seeking opportunities to contribute to real-world software projects, collaborate with development teams, and grow as a software engineer.
-
-
-
-<!---
-Muhammad-saad-12/Muhammad-saad-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📧 saad.work006@gmail.com
+📱 +923206029070
+🌐 https://saaddev12.netlify.app/
